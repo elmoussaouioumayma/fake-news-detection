@@ -1,0 +1,23 @@
+# Core: data, text processing and models
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+nltk>=3.8
+joblib>=1.3
+
+# Data collection
+kagglehub>=0.2
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Plots
+matplotlib>=3.7
+seaborn>=0.13
+wordcloud>=1.9
+
+# Summarization and sentiment (large download; set RUN_TRANSFORMERS = False to skip)
+transformers>=4.40
+torch>=2.1
+
+# Notebook
+jupyter
