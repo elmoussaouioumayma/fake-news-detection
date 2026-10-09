@@ -97,7 +97,7 @@ Sentiment: negative (86%)
 ## Run it yourself
 
 ```bash
-git clone https://github.com/<your-username>/fake-news-detection.git
+git clone https://github.com/elmoussaouioumayma/fake-news-detection.git
 cd fake-news-detection
 pip install -r requirements.txt
 jupyter notebook fake_news_detection.ipynb
